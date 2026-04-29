@@ -20,7 +20,7 @@ Most of my open source mileage lives here. Combined, these packages do roughly *
 | [`svelte-sortablejs`](https://github.com/jhubbardsf/svelte-sortablejs) | ![stars](https://img.shields.io/github/stars/jhubbardsf/svelte-sortablejs?style=flat-square&label=%20) | ![dm](https://img.shields.io/npm/dm/@jhubbardsf/svelte-sortablejs?style=flat-square&label=%20) | Svelte wrapper around Sortable.js. Drag-and-drop reorderable lists. |
 | [`svelte-speech-recognition`](https://github.com/jhubbardsf/svelte-speech-recognition) | ![stars](https://img.shields.io/github/stars/jhubbardsf/svelte-speech-recognition?style=flat-square&label=%20) | ![dm](https://img.shields.io/npm/dm/svelte-speech-recognition?style=flat-square&label=%20) | Web Speech API as a Svelte store. |
 | [`vite-plugin-svelte-console-remover`](https://github.com/jhubbardsf/vite-plugin-svelte-console-remover) | ![stars](https://img.shields.io/github/stars/jhubbardsf/vite-plugin-svelte-console-remover?style=flat-square&label=%20) | ![dm](https://img.shields.io/npm/dm/vite-plugin-svelte-console-remover?style=flat-square&label=%20) | Strip `console.*` calls from Svelte production builds. |
-| [`sveltekit-remote-fn-plugin`](https://www.npmjs.com/package/sveltekit-remote-fn-plugin) | — | ![dm](https://img.shields.io/npm/dm/sveltekit-remote-fn-plugin?style=flat-square&label=%20) | Vite plugin for SvelteKit remote functions. |
+| [`sveltekit-remote-fn-plugin`](https://www.npmjs.com/package/sveltekit-remote-fn-plugin) |  | ![dm](https://img.shields.io/npm/dm/sveltekit-remote-fn-plugin?style=flat-square&label=%20) | Vite plugin for SvelteKit remote functions. |
 
 ### AI / MCP servers
 
@@ -31,18 +31,18 @@ Model Context Protocol servers and adjacent tooling for agentic workflows.
 | [`imperium-mcp`](https://github.com/jhubbardsf/imperium-mcp) | ![dm](https://img.shields.io/npm/dm/imperium-mcp?style=flat-square&label=%20) | MCP server for Imperium (Mercor) docs and guidelines. |
 | [`dfns-mcp`](https://github.com/jhubbardsf/dfns-mcp) | ![dm](https://img.shields.io/npm/dm/dfns-mcp?style=flat-square&label=%20) | MCP server giving agents typed access to DFNS API docs and SDK examples. |
 | [`humantyping-ts`](https://github.com/jhubbardsf/HumanTypingTS) | ![dm](https://img.shields.io/npm/dm/humantyping-ts?style=flat-square&label=%20) | Realistic human-like typing simulation for TypeScript / Playwright. Variable timing, neighbor-key errors, fatigue, the whole bit. [Demo.](https://jhubbardsf.github.io/HumanTypingTS/) |
-| [`ghost-cursor-playwright-mcp`](https://github.com/jhubbardsf/ghost-cursor-playwright-mcp) | — | Playwright MCP server with human-like cursor movement baked in. |
-| [`conventional-commit-ai`](https://github.com/jhubbardsf/conventional-commit-ai) | — | CLI that turns staged diffs into Conventional Commits messages. |
+| [`ghost-cursor-playwright-mcp`](https://github.com/jhubbardsf/ghost-cursor-playwright-mcp) |  | Playwright MCP server with human-like cursor movement baked in. |
+| [`conventional-commit-ai`](https://github.com/jhubbardsf/conventional-commit-ai) |  | CLI that turns staged diffs into Conventional Commits messages. |
 | [`claude-plans-organizer`](https://github.com/jhubbardsf/claude-plans-organizer) | ![dm](https://img.shields.io/npm/dm/claude-plans-organizer?style=flat-square&label=%20) | Browse and rename Claude Code plans by human-readable name. |
-| [`localstack-mcp-server`](https://github.com/jhubbardsf/localstack-mcp-server) | — | MCP server wrapping LocalStack for AWS-in-a-box agents. |
+| [`localstack-mcp-server`](https://github.com/jhubbardsf/localstack-mcp-server) |  | MCP server wrapping LocalStack for AWS-in-a-box agents. |
 
 ### Web3 / Smart contracts
 
 | Project | Stars | What it does |
 | --- | --- | --- |
 | [`diamond-2-hardhat-v6`](https://github.com/jhubbardsf/diamond-2-hardhat-v6) | ![stars](https://img.shields.io/github/stars/jhubbardsf/diamond-2-hardhat-v6?style=flat-square&label=%20) | EIP-2535 Diamond reference, ported to TypeScript + Hardhat + Ethers v6. Public template. |
-| [`@jhubbardsf/ethers-decode-error`](https://www.npmjs.com/package/@jhubbardsf/ethers-decode-error) | — | Decode ethers.js contract errors into human-readable messages. |
-| [`coinmarketcap-dex-sdk`](https://www.npmjs.com/package/coinmarketcap-dex-sdk) | — | TypeScript SDK for the CoinMarketCap DEX API. |
+| [`@jhubbardsf/ethers-decode-error`](https://www.npmjs.com/package/@jhubbardsf/ethers-decode-error) |  | Decode ethers.js contract errors into human-readable messages. |
+| [`coinmarketcap-dex-sdk`](https://www.npmjs.com/package/coinmarketcap-dex-sdk) |  | TypeScript SDK for the CoinMarketCap DEX API. |
 
 ### Developer tools
 
