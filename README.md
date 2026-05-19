@@ -92,10 +92,13 @@ Things I built because the official UX was missing something.
 
 <p>
   <a href="https://github.com/jhubbardsf">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jhubbardsf&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&card_width=450">
+    <img alt="GitHub stats" src="https://github-readme-stats.hackclub.dev/api?username=jhubbardsf&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&card_width=450">
   </a>
   <a href="https://github.com/jhubbardsf">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhubbardsf&layout=compact&hide_border=true&theme=transparent&langs_count=8&card_width=330">
+    <img alt="Top languages" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=jhubbardsf&layout=compact&hide_border=true&theme=transparent&langs_count=8&card_width=330">
+  </a>
+  <a href="https://github.com/jhubbardsf">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=jhubbardsf&hide_border=true&theme=transparent">
   </a>
 </p>
 
