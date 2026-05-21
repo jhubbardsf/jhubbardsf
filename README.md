@@ -61,7 +61,6 @@ Model Context Protocol servers and developer tooling for agentic workflows.
 | [`imperium-mcp`](https://github.com/jhubbardsf/imperium-mcp) | ![dm](https://img.shields.io/npm/dm/imperium-mcp?style=flat-square&label=%20&color=10b981) | MCP server for Mercor Imperium documentation and contributor guidelines. |
 | [`aic-commit`](https://github.com/jhubbardsf/aic-commit) |  | CLI that converts staged diffs into Conventional Commits messages. |
 | [`claude-plans-organizer`](https://github.com/jhubbardsf/claude-plans-organizer) | ![dm](https://img.shields.io/npm/dm/claude-plans-organizer?style=flat-square&label=%20&color=10b981) | Browse and rename Claude Code plan files by human-readable name. |
-| [`localstack-mcp-server`](https://github.com/jhubbardsf/localstack-mcp-server) |  | MCP server for LocalStack, for AWS-in-a-box agentic workflows. |
 | [`codex-review`](https://github.com/jhubbardsf/codex-review) |  | Run Codex reviews without leaving Claude Code. |
 
 ### Web3 / Smart contracts
