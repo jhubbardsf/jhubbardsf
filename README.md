@@ -29,11 +29,11 @@ Building MCP tooling for AI coding agents, contributing to the Svelte ecosystem,
 
 | Area | Tools |
 | --- | --- |
-| **Languages** | TypeScript, JavaScript, Solidity, Python, Swift, Shell |
-| **Frontend** | Svelte / SvelteKit, React, Vite, Tailwind |
-| **Backend** | Node, Bun, Express, PostgreSQL, AWS (Lambda, Fargate, SST), Kubernetes / Helm |
+| **Languages** | TypeScript, JavaScript, C#, Solidity, Python, Shell, Rust, C, C++ |
+| **Frontend** | NextJS/React, SvelteKit/Svelte, Vite, Tailwind, React Native, Expo |
+| **Backend** | Node, Bun, Express, Hono, PostgreSQL, AWS (Lambda, Fargate, EKS/ECS, SST), Kubernetes / Helm |
 | **Blockchain** | Ethers v6, Hardhat, Foundry, EIP-2535 Diamonds, Solidity testing |
-| **AI / Agents** | Model Context Protocol, Anthropic SDK, Playwright automation, agent orchestration |
+| **AI / Agents** | Model Context Protocol, Anthropic SDK, Playwright automation, @ai-sdk/vercel, agent orchestration |
 
 ---
 
