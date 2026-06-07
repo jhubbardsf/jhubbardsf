@@ -61,8 +61,9 @@ Model Context Protocol servers and developer tooling for agentic workflows.
 | [`imperium-mcp`](https://github.com/jhubbardsf/imperium-mcp) | ![dm](https://img.shields.io/npm/dm/imperium-mcp?style=flat-square&label=%20&color=10b981) | MCP server for Mercor Imperium documentation and contributor guidelines. |
 | [`aic-commit`](https://github.com/jhubbardsf/aic-commit) |  | CLI that converts staged diffs into Conventional Commits messages. |
 | [`claude-plans-organizer`](https://github.com/jhubbardsf/claude-plans-organizer) | ![dm](https://img.shields.io/npm/dm/claude-plans-organizer?style=flat-square&label=%20&color=10b981) | Browse and rename Claude Code plan files by human-readable name. |
-| [`codex-review`](https://github.com/jhubbardsf/codex-review) |  | Run Codex reviews without leaving Claude Code. |
-| [`rephrasy-skills`](https://github.com/jhubbardsf/rephrasy-skills) |  | Claude Code plugin that scores text for AI detectability and humanizes it via the Rephrasy API. [Project site.](https://jhubbardsf.github.io/rephrasy-skills/) |
+| [`claude-plugins`](https://github.com/jhubbardsf/claude-plugins) |  | Umbrella Claude Code plugin marketplace (`joshd3v`). One marketplace add installs any of my plugins. |
+| [`codex-review`](https://github.com/jhubbardsf/codex-review) |  | Run Codex reviews without leaving Claude Code. Install: `codex-reviewer@joshd3v`. |
+| [`rephrasy-skills`](https://github.com/jhubbardsf/rephrasy-skills) |  | Claude Code plugin that scores text for AI detectability and humanizes it via the Rephrasy API. Install: `rephrasy@joshd3v`. [Project site.](https://jhubbardsf.github.io/rephrasy-skills/) |
 
 ### Web3 / Smart contracts
 
